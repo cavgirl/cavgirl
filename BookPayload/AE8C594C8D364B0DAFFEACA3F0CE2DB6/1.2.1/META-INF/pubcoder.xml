@@ -2,7 +2,7 @@
 <pubcoder>
 	<integratedUI>true</integratedUI>
 	<onTouchSystemUI>false</onTouchSystemUI>
-	<enableSwipe>false</enableSwipe>
+	<enableSwipe>true</enableSwipe>
 	<numPagesLandscape>1</numPagesLandscape>
 	<orientation>portrait</orientation>
 	<thumbnailHeight>220</thumbnailHeight>
