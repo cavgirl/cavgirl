@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pubcoder>
 	<integratedUI>true</integratedUI>
-	<onTouchSystemUI>false</onTouchSystemUI>
-	<enableSwipe>true</enableSwipe>
+	<onTouchSystemUI>true</onTouchSystemUI>
+	<enableSwipe>false</enableSwipe>
 	<numPagesLandscape>1</numPagesLandscape>
 	<orientation>portrait</orientation>
 	<thumbnailHeight>220</thumbnailHeight>
 	<thumbnailWidth>124</thumbnailWidth>
 	<viewportHeight>1280</viewportHeight>
 	<viewportWidth>720</viewportWidth>
-	<showNavigationArrows>false</showNavigationArrows>
+	<showNavigationArrows>true</showNavigationArrows>
 	<sharingOnSocialNetworks>true</sharingOnSocialNetworks>
 	<embedCode>true</embedCode>
 	<buttonBuyLabel>Buy Now</buttonBuyLabel>
